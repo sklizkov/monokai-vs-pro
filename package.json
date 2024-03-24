@@ -1,0 +1,38 @@
+{
+  "name": "monokai-vs-pro",
+  "displayName": "Monokai vs pro",
+  "description": "Monokai theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "fearOfCode",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai vs pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai vs pro.json"
+      },
+      {
+        "label": "Monokai vs pro next",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai vs pro next.json"
+      }
+    ]
+  },
+	"keywords": [
+		"monokai",
+    "theme",
+    "themes",
+    "color-theme",
+    "dark"
+	],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sklizkov/monokai-vs-pro"
+  }
+}
