@@ -2,7 +2,7 @@
   "name": "monokai-vs-pro",
   "displayName": "Monokai vs pro",
   "description": "Monokai theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "fearOfCode",
   "engines": {
     "vscode": "^1.87.0"
@@ -23,6 +23,11 @@
         "path": "./themes/Monokai vs pro next.json"
       }
     ]
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#2E2A2D",
+    "theme": "dark"
   },
 	"keywords": [
 		"monokai",
